@@ -14,6 +14,11 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "Oceanology_Plugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c05ddfb639ac41a9b93f619803e2e3f2"
 		}
 	]
 }
