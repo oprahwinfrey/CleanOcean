@@ -1,0 +1,67 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/Gameplay/DecreaseSizeOverTime
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0A8FFCF14233E49B5E390690E5CBECBE BaseClass:/Oceanology_Plugin/Advanced/Blueprints/Oceanology/Mode/BP_Oceanology_Infinity.BP_Oceanology_Infinity_C NativeClass:/Script/Oceanology_Plugin.QuadTree Name:BP_Oceanology_Infinity_UAID_70CD0DF2DDBA699301_2008005873 Label:BP_Oceanology_Infinity SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26009600.000 Y=-26009600.000 Z=-126000.000), Max=(X=26009600.000 Y=26009600.000 Z=3000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Oceanology Structure FolderGuid:E61BAC7143B4A93AEC79F99E1C2B5154
+ |   |   |- Guid:202D838B4296C65648F652BF129AFFAE BaseClass:/Game/Blueprints/BP_Trash.BP_Trash_C NativeClass:/Script/Engine.Actor Name:BP_Trash_C_UAID_70CD0DF2DDBA8B8701_1961145183 Label:BP_Trash SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 HLODLayer:/Engine/OpenWorldTemplate/HLOD/HLOD0_Instancing.HLOD0_Instancing FolderPath:Trash FolderGuid:B9F5D6A54A6B84A8C6068398DC3A0D3A
+ |   |   |- Guid:B1C9D67B4C247EEDC6A583BC5BE77CAD BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0A8FFCF14233E49B5E390690E5CBECBE BaseClass:/Oceanology_Plugin/Advanced/Blueprints/Oceanology/Mode/BP_Oceanology_Infinity.BP_Oceanology_Infinity_C NativeClass:/Script/Oceanology_Plugin.QuadTree Name:BP_Oceanology_Infinity_UAID_70CD0DF2DDBA699301_2008005873 Label:BP_Oceanology_Infinity SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26009600.000 Y=-26009600.000 Z=-126000.000), Max=(X=26009600.000 Y=26009600.000 Z=3000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Oceanology Structure FolderGuid:E61BAC7143B4A93AEC79F99E1C2B5154
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:202D838B4296C65648F652BF129AFFAE BaseClass:/Game/Blueprints/BP_Trash.BP_Trash_C NativeClass:/Script/Engine.Actor Name:BP_Trash_C_UAID_70CD0DF2DDBA8B8701_1961145183 Label:BP_Trash SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 HLODLayer:/Engine/OpenWorldTemplate/HLOD/HLOD0_Instancing.HLOD0_Instancing FolderPath:Trash FolderGuid:B9F5D6A54A6B84A8C6068398DC3A0D3A
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:B1C9D67B4C247EEDC6A583BC5BE77CAD BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-26009600.000 Y=-26009600.000 Z=-126000.000), Max=(X=26009600.000 Y=26009600.000 Z=3000.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/Gameplay/DecreaseSizeOverTime
+----------------------------------------------------------------------------------------------------------------
+DecreaseSizeOverTime - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 11 
+
+----------------------------------------------------------------------------------------------------------------
+DecreaseSizeOverTime - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-26009600.000 Y=-26009600.000 Z=-126000.000), Max=(X=26009600.000 Y=26009600.000 Z=3000.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 13
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    1 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+ |- Level  2: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+ |- Level  3: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+ |- Level  4: Cell Count    0 | Cell Size  204800 | Actor Count    0 (0.0%)
+ |- Level  5: Cell Count    0 | Cell Size  409600 | Actor Count    0 (0.0%)
+ |- Level  6: Cell Count    0 | Cell Size  819200 | Actor Count    0 (0.0%)
+ |- Level  7: Cell Count    0 | Cell Size 1638400 | Actor Count    0 (0.0%)
+ |- Level  8: Cell Count    0 | Cell Size 3276800 | Actor Count    0 (0.0%)
+ |- Level  9: Cell Count    0 | Cell Size 6553600 | Actor Count    0 (0.0%)
+ |- Level 10: Cell Count    0 | Cell Size 13107200 | Actor Count    0 (0.0%)
+ |- Level 11: Cell Count    0 | Cell Size 26214400 | Actor Count    0 (0.0%)
+ |- Level 12: Cell Count    0 | Cell Size 52428800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 1
+ |   |- Actor Path: /Game/Maps/Gameplay/UEDPIE_0_DecreaseSizeOverTime.DecreaseSizeOverTime:PersistentLevel.BP_Trash_C_UAID_70CD0DF2DDBA8B8701_1961145183
+ |   |- Actor Package: /Game/__ExternalActors__/Maps/Gameplay/DecreaseSizeOverTime/2/OC/ZSCTC2XCAGUBFOAPMKIOLJ
+[+] Content of Grid Level 1
+[+] Content of Grid Level 2
+[+] Content of Grid Level 3
+[+] Content of Grid Level 4
+[+] Content of Grid Level 5
+[+] Content of Grid Level 6
+[+] Content of Grid Level 7
+[+] Content of Grid Level 8
+[+] Content of Grid Level 9
+[+] Content of Grid Level 10
+[+] Content of Grid Level 11
+[+] Content of Grid Level 12
+
