@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "CleanOcean",
+			"Name": "MyProject",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
@@ -19,13 +19,13 @@
 			]
 		},
 		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
 			"Name": "Oceanology_Plugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c05ddfb639ac41a9b93f619803e2e3f2"
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
