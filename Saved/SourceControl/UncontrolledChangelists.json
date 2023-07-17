@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/flavi/Documents/Unreal Projects/CleanOcean/Content/Widgets/WBP_UI.uasset",
+				"C:/Users/flavi/Documents/Unreal Projects/CleanOcean/Content/Blueprints/BP_Vacuum.uasset",
+				"C:/Users/flavi/Documents/Unreal Projects/CleanOcean/Content/GM_Default.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset",
+				"C:/Users/flavi/Documents/Unreal Projects/CleanOcean/Content/PC_Default.uasset",
+				"C:/Users/flavi/Documents/Unreal Projects/CleanOcean/Content/__ExternalActors__/Maps/Gameplay/TimeTrial/8/S3/33JNKYQVVG4PLIV9C6FIA4.uasset",
 				"C:/Users/Flavio/Documents/Unreal Projects/CleanOcean/Content/Maps/0_MainMenu.umap",
 				"C:/Users/Flavio/Documents/Unreal Projects/CleanOcean/Content/Blueprints/BP_Vacuum.uasset",
 				"C:/Users/Flavio/Documents/Unreal Projects/CleanOcean/Content/__ExternalActors__/Maps/Gameplay/TimeTrial/8/S3/33JNKYQVVG4PLIV9C6FIA4.uasset",
