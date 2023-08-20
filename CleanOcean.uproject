@@ -26,6 +26,11 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "DWP2",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher//ue/marketplace/product/3860bae8bd7845c6a816d1f5da8ba6a0"
 		}
 	]
 }
