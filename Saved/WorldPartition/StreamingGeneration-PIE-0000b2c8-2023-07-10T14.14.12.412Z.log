@@ -1,0 +1,85 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/Gameplay/DecreaseSizeOverTime
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0A8FFCF14233E49B5E390690E5CBECBE BaseClass:/Oceanology_Plugin/Advanced/Blueprints/Oceanology/Mode/BP_Oceanology_Infinity.BP_Oceanology_Infinity_C NativeClass:/Script/Oceanology_Plugin.QuadTree Name:BP_Oceanology_Infinity_UAID_70CD0DF2DDBA699301_2008005873 Label:BP_Oceanology_Infinity SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26009600.000 Y=-26009600.000 Z=-126000.000), Max=(X=26009600.000 Y=26009600.000 Z=3000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Oceanology Structure FolderGuid:E61BAC7143B4A93AEC79F99E1C2B5154
+ |   |   |- Guid:1C7E536544B0DB9A42E5E5B02859A0FC BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:1CC6C1E84B3E7474613B58BABF355313 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:202D838B4296C65648F652BF129AFFAE BaseClass:/Game/Blueprints/BP_Trash.BP_Trash_C NativeClass:/Script/Engine.Actor Name:BP_Trash_C_UAID_70CD0DF2DDBA8B8701_1961145183 Label:BP_Trash SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 HLODLayer:/Engine/OpenWorldTemplate/HLOD/HLOD0_Instancing.HLOD0_Instancing FolderPath:Trash FolderGuid:B9F5D6A54A6B84A8C6068398DC3A0D3A
+ |   |   |- Guid:821BBE9C4EF531253B4CCE94AEAB5926 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:9F1DA88D49648C24763062833242CE14 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:AA03EE9245713E8BFE48369AFCAF8C9B BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:B1C9D67B4C247EEDC6A583BC5BE77CAD BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E22DDF1E40B28A6FCBD6D9AB0FC6968A BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_001A7DDA7115B08901_1998830807 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-300.000 Y=-1460.000 Z=-14.741), Max=(X=-220.000 Y=-1380.000 Z=169.259) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0A8FFCF14233E49B5E390690E5CBECBE BaseClass:/Oceanology_Plugin/Advanced/Blueprints/Oceanology/Mode/BP_Oceanology_Infinity.BP_Oceanology_Infinity_C NativeClass:/Script/Oceanology_Plugin.QuadTree Name:BP_Oceanology_Infinity_UAID_70CD0DF2DDBA699301_2008005873 Label:BP_Oceanology_Infinity SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26009600.000 Y=-26009600.000 Z=-126000.000), Max=(X=26009600.000 Y=26009600.000 Z=3000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Oceanology Structure FolderGuid:E61BAC7143B4A93AEC79F99E1C2B5154
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:AA03EE9245713E8BFE48369AFCAF8C9B BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:202D838B4296C65648F652BF129AFFAE BaseClass:/Game/Blueprints/BP_Trash.BP_Trash_C NativeClass:/Script/Engine.Actor Name:BP_Trash_C_UAID_70CD0DF2DDBA8B8701_1961145183 Label:BP_Trash SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 HLODLayer:/Engine/OpenWorldTemplate/HLOD/HLOD0_Instancing.HLOD0_Instancing FolderPath:Trash FolderGuid:B9F5D6A54A6B84A8C6068398DC3A0D3A
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1CC6C1E84B3E7474613B58BABF355313 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:E22DDF1E40B28A6FCBD6D9AB0FC6968A BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_001A7DDA7115B08901_1998830807 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-300.000 Y=-1460.000 Z=-14.741), Max=(X=-220.000 Y=-1380.000 Z=169.259) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:821BBE9C4EF531253B4CCE94AEAB5926 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:9F1DA88D49648C24763062833242CE14 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:1C7E536544B0DB9A42E5E5B02859A0FC BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:B1C9D67B4C247EEDC6A583BC5BE77CAD BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-26009600.000 Y=-26009600.000 Z=-126000.000), Max=(X=26009600.000 Y=26009600.000 Z=3000.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/Gameplay/DecreaseSizeOverTime
+----------------------------------------------------------------------------------------------------------------
+DecreaseSizeOverTime - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 17 
+
+----------------------------------------------------------------------------------------------------------------
+DecreaseSizeOverTime - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-26009600.000 Y=-26009600.000 Z=-126000.000), Max=(X=26009600.000 Y=26009600.000 Z=3000.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 13
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    1 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+ |- Level  2: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+ |- Level  3: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+ |- Level  4: Cell Count    0 | Cell Size  204800 | Actor Count    0 (0.0%)
+ |- Level  5: Cell Count    0 | Cell Size  409600 | Actor Count    0 (0.0%)
+ |- Level  6: Cell Count    0 | Cell Size  819200 | Actor Count    0 (0.0%)
+ |- Level  7: Cell Count    0 | Cell Size 1638400 | Actor Count    0 (0.0%)
+ |- Level  8: Cell Count    0 | Cell Size 3276800 | Actor Count    0 (0.0%)
+ |- Level  9: Cell Count    0 | Cell Size 6553600 | Actor Count    0 (0.0%)
+ |- Level 10: Cell Count    0 | Cell Size 13107200 | Actor Count    0 (0.0%)
+ |- Level 11: Cell Count    0 | Cell Size 26214400 | Actor Count    0 (0.0%)
+ |- Level 12: Cell Count    0 | Cell Size 52428800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 1
+ |   |- Actor Path: /Game/Maps/Gameplay/UEDPIE_0_DecreaseSizeOverTime.DecreaseSizeOverTime:PersistentLevel.BP_Trash_C_UAID_70CD0DF2DDBA8B8701_1961145183
+ |   |- Actor Package: /Game/__ExternalActors__/Maps/Gameplay/DecreaseSizeOverTime/2/OC/ZSCTC2XCAGUBFOAPMKIOLJ
+[+] Content of Grid Level 1
+[+] Content of Grid Level 2
+[+] Content of Grid Level 3
+[+] Content of Grid Level 4
+[+] Content of Grid Level 5
+[+] Content of Grid Level 6
+[+] Content of Grid Level 7
+[+] Content of Grid Level 8
+[+] Content of Grid Level 9
+[+] Content of Grid Level 10
+[+] Content of Grid Level 11
+[+] Content of Grid Level 12
+

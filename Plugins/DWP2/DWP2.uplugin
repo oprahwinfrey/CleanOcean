@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DWP2",
+	"Description": "Mesh-based water physics.",
+	"Category": "Code Plugins",
+	"CreatedBy": "NWH coding",
+	"CreatedByURL": "http://nwhcoding.com/",
+	"DocsURL": "http://dynamicwaterphysics.com/doku.php/DWP2_UE/index",
+	"MarketplaceURL": "com.epicgames.launcher//ue/marketplace/product/3860bae8bd7845c6a816d1f5da8ba6a0",
+	"SupportURL": "https://discord.com/invite/ubFBbM8",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DWP2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"IOS",
+				"Android",
+				"Mac",
+				"Win64",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		}
+	]
+}

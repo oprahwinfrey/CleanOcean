@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/Maps/0_MainMenu.umap",
 				"Z:/Documents/Program Files/UE_5.2/Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset",
 				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/__ExternalActors__/Maps/Gameplay/DecreaseSizeOverTime/2/OC/ZSCTC2XCAGUBFOAPMKIOLJ.uasset",
@@ -385,6 +386,17 @@
 				"C:/Users/flavi/Documents/Unreal Projects/CleanOcean/Content/__ExternalActors__/Maps/Joel/D/TT/ERWDATG8TNHXQ8VM16ELME.uasset",
 				"C:/Users/flavi/Documents/Unreal Projects/CleanOcean/Content/__ExternalActors__/Maps/Gameplay/TimeTrial/8/1X/CF2DKME9C6Y6374R6J9412.uasset",
 				"C:/Users/flavi/Documents/Unreal Projects/CleanOcean/Content/Maps/NewWorld.umap",
+=======
+				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/Blueprints/BP_Vacuum.uasset",
+				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/__ExternalActors__/Maps/Gameplay/TimeTrial/8/S3/33JNKYQVVG4PLIV9C6FIA4.uasset",
+				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/__ExternalActors__/Maps/Joel/6/AY/W9VX1971VWZ6B3LA55PEZF.uasset",
+				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/__ExternalActors__/Maps/Joel/D/TT/ERWDATG8TNHXQ8VM16ELME.uasset",
+				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/__ExternalActors__/Maps/Joel/3/DL/067NYKFWRL2Y33LTM42RZQ.uasset",
+				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/Maps/WaterTesterUEWATER.umap",
+				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Plugins/Oceanology_Plugin/Content/Advanced/Blueprints/Oceanology/Mode/BP_Oceanology_Infinity.uasset",
+				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/Blueprints/BP_Trash.uasset",
+				"C:/Users/thugd/Documents/Unreal Projects/1GitHub Repositories/CleanOcean/Content/__ExternalActors__/Maps/Joel/8/PO/2Y5CAYZLXNO59UMYWXXSYT.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/Flavio/Documents/Unreal Projects/CleanOcean/Content/Maps/0_MainMenu.umap",
 				"C:/Users/Flavio/Documents/Unreal Projects/CleanOcean/Content/Blueprints/BP_Vacuum.uasset",
 				"C:/Users/Flavio/Documents/Unreal Projects/CleanOcean/Content/__ExternalActors__/Maps/Gameplay/TimeTrial/8/S3/33JNKYQVVG4PLIV9C6FIA4.uasset",
